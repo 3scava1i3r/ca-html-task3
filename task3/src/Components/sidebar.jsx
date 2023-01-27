@@ -117,7 +117,7 @@ const Sidebar = () => {
                 <span className="h-5 font-text-sm-medium1 text-base font-normal leading-5 text-[#475467]">olivia@untitledui.com</span>
               </div>
               <div className="flex items-center justify-center p-2 pt-0 gap-2 w-9 h-9 rounded-lg cursor-pointer">
-                <img className="" src="../Images/settings-8.svg" alt="" />
+                <img className="" src="./Images/settings-8.svg" alt="" />
               </div>
             </div>
         </div>
